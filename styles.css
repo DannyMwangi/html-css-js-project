@@ -1,0 +1,32 @@
+html{
+	font-family:monospace;
+    text-align: center;
+    
+}
+
+body {
+    background-color: rgb(92, 93, 81);
+    color: beige;
+    margin: 0 auto;
+    align-self: center;
+    align-items: center;
+    margin-top: 100px;
+    padding: 30px;
+    text-align: center;
+    border: 3px dotted white;
+    margin: 30px;
+    border-radius: 40px;
+    
+} 
+
+h1 {
+    font-weight: 300;
+    color: rgb(7, 6, 7);
+}
+p{
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    letter-spacing: 0.1em;
+    line-height:1.8em;
+
+}
